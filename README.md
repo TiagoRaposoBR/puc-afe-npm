@@ -1,4 +1,5 @@
-# PucSharedComponents
+# puc-afe-npm
+Componente NPM da aula de Front End do curso de pós da PUC
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
